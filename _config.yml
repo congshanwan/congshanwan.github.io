@@ -84,7 +84,7 @@ author:
   location         : "Georgia Institute of Technology"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=Iv-t7GMAAAAJ&hl=en"
-  email            : cwan3@gatech.edu
+  email            : "cwan3@gatech.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,8 +97,8 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/0000-0001-7355-9778"
+  linkedin         : "https://www.linkedin.com/in/congshan-wan-32383865/"
+  orcid            : "http://orcid.org/0000-0001-7355-9778"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -249,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
