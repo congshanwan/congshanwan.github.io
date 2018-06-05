@@ -79,9 +79,9 @@ analytics:
 # Site Author
 author:
   name             : "Congshan Wan"
-  avatar           : "cs.png"
-  bio              : "Ph.D. candidate at Georgia Institute of Technology"
-  location         : #"Location"
+  avatar           : "cs.jpg"
+  bio              : "Ph.D. candidate in Optics and Photonics"
+  location         : "Georgia Institute of Technology"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=Iv-t7GMAAAAJ&hl=en"
   email            : cwan3@gatech.edu
