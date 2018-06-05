@@ -68,7 +68,7 @@ May 2011 - Aug 2011: Research Intern, Institute of Microelectronics at Chinese A
 Technical Strengths
 ====== 
 Software Skills:
-  * Matlab, Latex, Labview, Autocad, Solidworks, COMSOL, Lumerical FDTD, MEEP FDTD, BeamPROP, BeamLab in Matlab, SAS JMP, GenISys BEAMER, InDesign, PhotoShop, Illustrator, C and C++, Java<br/>
+  * Matlab, Latex, LabVIEW, Autocad, Solidworks, COMSOL, Lumerical FDTD, MEEP FDTD, BeamPROP, BeamLab in Matlab, SAS JMP, GenISys BEAMER, InDesign, PhotoShop, Illustrator, C and C++, Java<br/>
   
 Electromagnetic Theory and Devices:
   * Fourier optics, diffractive optics, photonics, plasmonics, waveguide, fiber, resonator, interferometer, photonic crystals<br/>
