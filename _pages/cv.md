@@ -28,7 +28,7 @@ Jan 2015 - present: Graduate Research Assistant, ECE, Georgia Institute of Techn
   * Project 1: Efficiency Optimization and Angular Misalignment Analysis of Interlayer Grating Couplers for 2.5D/3D Integrated Photonics<br/>
   · Proposed the rigorous coupled-wave analysis – equivalent index slab (RCWA-EIS) method to accurately calculate the coupling efficiency of interlayer grating couplers with various grating profiles<br/>
   · Developed a simulation tool based on the proposed RCWA-EIS method using Matlab to efficiently optimize the interlayer grating coupling efficiency and provide the first angular misalignment analysis<br/>
-  · Demonstrated a grating optimization tool that is more computationally efficient than commerical softwares based on the finite-difference time-domain method (FDTD) or the finite element method (FEM)<br/>
+  · Demonstrated a grating optimization tool that is more computationally efficient than commercial software based on the finite-difference time-domain method (FDTD) or the finite element method (FEM)<br/>
   
   * Project 2: Design and Fabrication of Grating-Assisted-Cylindrical-Resonant-Cavities (GARC) Interlayer Couplers for 2.5D/3D Integrated Photonics<br/>
   · Invented a fundamentally new GARC couplers for interlayer optical coupling based on cylindrical resonant cavities and Bessel-function-defined circular gratings<br/>
