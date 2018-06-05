@@ -8,67 +8,67 @@ redirect_from:
 ---
 
 {% include base_path %}
-A PDF version of my CV can be obtained [<b>here</b>](http://liwanggt.github.io/files/Li_Wang_Georgia_Tech.pdf).
+A PDF version of my CV can be obtained from [<b>here</b>](http://congshanwan.github.io/files/Congshan_resume.pdf).
 
 Education
 ======
-* Ph.D. in Electrical and Computer Engineering, Georgia Institute of Technology, 2018 May (expected)
-* M.S. in Electrical and Computer Engineering, Clemson University, 2014
-* B.S. in Mechanical Engineering, Huazhong University of Science and Technology, 2012
+Ph.D. in Electrical and Computer Engineering, Georgia Institute of Technology, Jan 2015 - May 2019 (expected)
+M.S. in Materials Science and Engineering, Georgia Institute of Technology, Aug 2013 - Dec 2014
+B.S. in Materials Science and Engineering, University of Illinois at Urbana-Champaign, Aug 2009 - May 2013
 
-Peer-Reviewer for Robotics and Controls Communities
+Peer-Review for Optics and Photonics
 ======
-* IEEE Transactions on Robotics (T-RO) 
-* IEEE Transactions on Automatic Control (TAC)
-* IEEE Transactions on Control of Network Systems (TCNS)
-* IEEE Robotics and Automation Letters (RA-L)
-* Control Systems Society (CSS) conferences: CDC, ACC, ECC
-* Robotics and Automation Society (RAS) conferences: ICRA, IROS, CASE
+IEEE Photonics Technology Letters 
+Optics Letters
 
-
-Work experience
+Research Experience
 ======
-* 2014 - present: Graduate Research Assistant, Georgia Institute of Technology, US
-  * Topic: Safety Control Certificates for Multi-robot Systems
-  * Advisor: Magnus Egerstedt
-  * Developed safety control certificates for safe aggressive maneuvers of multi-quadrotor and mobile robot swarms.
-  * Implemented safety certificates on teams of quadrotors/robots with Robot Operating System (ROS)
-  * Built a multi-robot test-bed consisting of mobile robots, quadrotors and Optitrack motion capture system.
-  * Enabled real-time communication and control of multi-robot systems, and interactions with joystick and Iphone.
-
-* Summer 2017: Research Intern, Siemens Corporate Technology, US
-  * Project: Planning and Scheduling of Flexible Manufacturing Systems
-  * Advisor: Ulrich Muenz
-  * Developed MPC graph-based planning and scheduling algorithm for flexible manufacturing systems.
-  * Implemented the MPC graph-based planner in C++ and interfaced with Siemens Tecnomatix plant simulator.
-
-* Summer 2014: Research Intern, OFS Fitel LLC, US
-  * Project: Software Development for Plasma-based Optical Fiber Manufacturing Process
-  * Advisor: David Braganza
-  * Worked on hardware&software integration for Siemens PLC, HMI, RF power circuit, and other periphery devices.
-  * Developed software for manufacturing recipe optimization and automation with multi-programming language.
+Jan 2015 - present: Graduate Research Assistant, ECE, Georgia Institute of Technology
+  * Advisors: T. K. Gaylord and M. S. Bakir
+  * Project 1: Efficiency Optimization and Angular Misalignment Analysis of Interlayer Grating Couplers for 2.5D/3D Integrated Photonics
+  · Proposed the rigorous coupled-wave analysis – equivalent index slab (RCWA-EIS) method to accurately calculate the coupling efficiency of interlayer grating couplers with various grating profiles
+  · Developed a simulation tool based on the proposed RCWA-EIS method using Matlab to efficiently optimize the interlayer grating coupling efficiency and provide the first angular misalignment analysis
+  · Demonstrated a grating optimization tool that is more computationally efficient than commerical softwares based on the finite-difference time-domain method (FDTD) or the finite element method (FEM)
   
-* 2012 - 2014: Graduate Research Assistant, Clemson University, US
-  * Topic: Minimal Knowledge Controller for Bio-reactor
-  * Advisor: Richard Groff
-  * Developed and implemented bioreactor OTR signal online tracking, conducted signal filtering and processing
-  * Implemented bioreactor real-time data acquisition system with xPC-target, OPC, UDP and serial communication
-  * Developed Matlab GUI for fermentation process control and monitoring, data logging and dynamic graph display
+  * Project 2: Design and Fabrication of Grating-Assisted-Cylindrical-Resonant-Cavities (GARC) Interlayer Couplers for 2.5D/3D Integrated Photonics
+  · Invented a fundamentally new GARC couplers for interlayer optical coupling based on cylindrical resonant cavities and Bessel-function-defined circular gratings
+  · Simulated and optimized the GARC couplers using MEEP FDTD and verified by Lumerical FDTD
+  · Currently microfabricating the designed GARC coupler and measuring the interlayer coupling efficiencies and the spectral response
   
-* 2013 & 2015: Lab Teaching Assistant, Georgia Tech/Clemson University, US
-  * Project: Mechantronic System lab, Electronics Lab
-  * Advisor: Allen Robinson, John Wagner
-  * Taught signal acquisition, processing and analysis with transistor circuit, oscilloscope, and signal generator.
-  * Gave lectures in mechantronic labs covering PLC programming, Labview data sampling, and CNC operation
-  
-* Summer 2011: Research Intern, DEPUSH Robotic Education Technology, China
-  * Project: Educational reconfigurable mechantronical platform
-  * Advisor: Kevin Rong
-  * Developed a modular mechantronic platform with mechantronic transmission, micro-controller and Labview interface.
+  * Project 3: Design and Fabrication of Self-Aligned Fiber Alignment Fixture for Easier Integration and Assembly
+  · Designing and fabricating a novel multiple-use self-aligned fiber-to-grating alignment fixture
+  · Aligning fiber arrays to the gratings and measuring the fiber-to-grating coupling efficiencies and repeatability
  
-* 2010 - 2012: Graduate Research Assistant, Huazhong University of Science and Technology, China
-  * Topic: Geometric error modelling and compensation for multi-axis machine tools
-  * Advisor: Fangyu Peng
-  * Used CAD/CAM software for mechanical components modeling and tool cutting path generation and optimization
-  * Modeled the kinematics of multi-axis machine tools and developed algorithms for tool path post-processing
-  * Wrote proposal for geometric error compensation and got grants from the Chinese ministry of education
+ 
+Aug 2013 - Dec 2014: Graduate Research Assistant, MSE, Georgia Institute of Technology
+  * Advisor: Z. Lin
+  * Project: Core-Shell Nanoparticle Synthesis Using Atomic Transfer Radical Polymerization (ATRP)
+  · Constructed COMSOL model (FEM) of Au/TiO2 nanoparticles and performed surface plasma resonance analysis
+  · Synthesized block-copolymer chains on star-like micro-initiators as nanoparticle scaffords
+  · Synthesized bi-phased and spherical NPs with better morphology compared with NPs synthesized by other methods
+
+
+Aug 2010 - May 2013: Undergraduate Research Assistant, MSE, University of Illinois at Urbana-Champaign
+  * Advisor: J. A. Rogers
+  * Project: Single-Walled Carbon Nanotube (SW-CNT) Synthesis and Transistor Fabrication
+  · Fabricated FeO catalyst lines by microfabrication techniques and produced CNTs by chemical vapor deposition
+  · Increased CNT density by two times and implemented CNTs with semiconducting properties as channels in transistors
+  · Tested CNT-based transistors by the probe station and analyzed I-V characteristics
+
+
+Internship Experience
+======
+
+May 2017 - Aug 2017: Research Intern, OFS Fitel LLC
+  * Advisor: D. Peckham
+  * Project: Dopant Diffusion Modeling and Fiber Testing
+  · Developed dopant diffusion models for fiber D2 treatment and reaction-limited process using Matlab
+  · Conducted microbending/macrobending test and OTDR test on single-mode fibers and SCUBA fibers
+  · Improved fusion splicing recipes for single-mode fibers, submarine SCUBA fibers and terrestrial ULL fibers
+  
+May 2011 - Aug 2011: Research Intern, Institute of Microelectronics at Chinese Academy of Science
+  * Advisor: M. Liu
+  * Project: Fabrication and Testing of Resistive-Switching Nonvolatile Memory RRAM  
+  · Deposited TaOx thin films by reactive RF magnetron sputtering using a Ta target in oxygen ambient and controlled oxygen profile of TaOx by annealing in oxygen
+  · Investigated the oxidation-reduction mechanism of RRAM’s conducting channel and measured channel resistances, I-V curves and set/reset currents
+  
