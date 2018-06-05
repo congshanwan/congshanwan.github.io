@@ -25,7 +25,7 @@ C1. M. Zia, C. Wan, Y. Zhang, and M. S. Bakir, “Electrical and photonic off-ch
 
 D. Master’s Thesis
 ======
-D1. “Functional Nanoparticles: Synthesis and Simulation,” Georgia Institute of Technology, 2014. [<b>PDF</b>](http://liwanggt.github.io/files/WAN-THESIS-2014.pdf)<br/>
+D1. “Functional Nanoparticles: Synthesis and Simulation,” Georgia Institute of Technology, 2014. [<b>PDF</b>](http://congshanwan.github.io/files/WAN-THESIS-2014.pdf)<br/>
 
 E. Intellectual Property:
 ======
