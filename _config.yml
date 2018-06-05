@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Li Wang / Ph.D."
+title                    : "Congshan Wan / Ph.D. Candidate"
 title_separator          : "-"
-name                     : &name "Li Wang"
-description              : &description "Expected to graduate in 2018 May"
-url                      : https://liwangGT.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Congshan Wan"
+description              : &description "Expected to graduate in 2019 May"
+url                      : https://congshanwan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "liwangGT/liwangGT.github.io"
+repository               : "congshanwan/congshanwan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Li Wang"
-  avatar           : "li.png"
-  bio              : "Senior Autopilot Controls Engineer at Tesla"
+  name             : "Congshan Wan"
+  avatar           : "cs.png"
+  bio              : "Ph.D. candidate at Georgia Institute of Technology"
   location         : #"Location"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=8V_GaUoAAAAJ&hl=en"
-  email            : liwang@gatech.edu
+  googlescholar    : "https://scholar.google.com/citations?user=Iv-t7GMAAAAJ&hl=en"
+  email            : cwan3@gatech.edu
   uri              :
   bitbucket        :
   codepen          :
@@ -92,13 +92,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"liwangGT"
+  github           : #"congshanwan"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/0000-0002-8530-3769"
+  orcid            : #"http://orcid.org/0000-0001-7355-9778"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
