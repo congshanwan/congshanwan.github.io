@@ -32,3 +32,8 @@ Project 2: Design of Grating-Assisted-Cylindrical-Resonant-Cavities (GARC) Inter
 <br/>
      
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/GARC_field_y.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/GARC_field_gr.gif)
+
+
+Side Projects: Lumerical FDTD, MEEP FDTD, and COMSOL simulations
+
+to be added :)
