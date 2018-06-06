@@ -18,6 +18,8 @@ Project 1: Efficiency Optimization and Angular Misalignment Analysis of Interlay
 <center><img src="/images/fig_rot.png" alt="Rotated Bottom Grating" style="width:500px;height:300px;"></center>
 
 [](http://congshanwan.github.io/files/ASi_movie_y_res150_t400.gif) 
+![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/ASi_movie_y_res150_t400.gif)
+
 
 
 
