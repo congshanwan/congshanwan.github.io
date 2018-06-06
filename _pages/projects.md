@@ -25,9 +25,9 @@ Project 1: Efficiency Optimization and Angular Misalignment Analysis of Interlay
 
 Project 2: Design of Grating-Assisted-Cylindrical-Resonant-Cavities (GARC) Interlayer Couplers 
 * The traditional rectangular grating couplers have many limitations, such as narrow spectral bandwidth, sensitive to misalignments/ridge variations, and the presence of substrate leakage loss, etc. In order to overcome these issues, I have invented a fundamentally new interlayer coupler, called the grating-assisted-cylindrical-resonant-cavities (GARC) coupler, to achieve efficient and broadband coupling. The GARC coupler consists of three resonant cavities: two waveguide cavities in the horizontal direction and one cylindrical via cavity in the vertical direction. Note that the resonant cavities are used for field enhancement, but they don't have very large Q as in resonators because field will leak out from the cavities into the waveguide by evanescent coupling. The waveguide cavities are modulated by Bessel-function-defined circular gratings. The structure of the GARC coupler and the spectral response are shown in the following figures. The movies show the field propagation in the GARC coupler (from left to right: vertical cross section, the bottom waveguide, and the top waveguide, simulation done by MEEP FDTD), assuming the input field is launched from the top waveguide from the right. We can see that the GARC coupler is efficient and much more broadband compared with the conventional rectangular grating coupler. 
-<center><img src="/images/fig_garc.png" alt="GARC Coupler" style="width:500px;height:560px;"></center>
+<center><img src="/images/fig_garc.png" alt="GARC Coupler" style="width:500px;height:550px;"></center>
 <br/>
-<center><img src="/images/fig_GARC_bandwidth.png" alt="GARC Bandwidth" style="width:500px;height:350px;"></center>
+<center><img src="/images/fig_GARC_bandwidth.png" alt="GARC Bandwidth" style="width:500px;height:370px;"></center>
 <br/>
      
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/GARC_field_y.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/GARC_field_gr.gif)
