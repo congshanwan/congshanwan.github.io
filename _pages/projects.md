@@ -14,26 +14,21 @@ Project 1: Efficiency Optimization and Angular Misalignment Analysis of Interlay
 * The proposed RCWA-EIS method can be used to calculate grating coupling efficiency of various grating structures, including binary gratings, sawtooth gratings, parallelogramic gratings, volume gratings, as well as grating with bottom reflectors, etc. The calculations are compared with those obtained from FDTD simulations. <br/>
 <center><img src="/images/fig_gr_opt.png" alt="Optimized Gratings" style="width:700px;height:360px;"></center>
 
-* The benefit of the RCWA-EIS method is that it solves the waveguide grating coupling problem from the in-coupling process, thus conical incidence formulation can be used to model the angular misalingment effects. For example, if the bottom waveguide grating is rotated with respective to the top waveguide grating, the out-diffracted light from the top grating will be conically incident onto the bottom grating. The in-coupling efficiency into the bottom grating will be affected according to the relative rotation. The animated movies show the in-coupling efficiency changes as a function of rotation angle about the x axis, z axis, and an arbitrary vector [221].<br/>
+The calculated results are verified by 2D FDTD simulations. The RCWA-EIS method, implemented in Matlab and solving problem analytically, is 2000 times faster than 2D FDTD, e.g. 0.1 second versus minutes.
+
+* The benefit of the RCWA-EIS method is that it solves the waveguide grating coupling problem from the in-coupling process, thus the conical incidence formulation can be used to model the angular misalingment effects. For example, if the bottom waveguide grating is rotated with respective to the top waveguide grating, the out-diffracted light from the top grating will be conically incident onto the bottom grating. The in-coupling efficiency into the bottom grating will be affected according to the relative rotation. The animated movies show the in-coupling efficiency changes as a function of rotation angle about the x axis, z axis, and an arbitrary vector [221].<br/>
 <center><img src="/images/fig_rot.png" alt="Rotated Bottom Grating" style="width:500px;height:300px;"></center>
+<br/>
 
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/rotate_001_conf.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/rotate_100_conf.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/rotate_221_conf.gif)  | 
 
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/rotate_001_eff.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/rotate_100_eff.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/rotate_221_eff.gif)  |    
 
-
-
-
-
-
-
-
-
-
-
-
+The calculated results obtained from the RCWA-EIS method match pretty well with those obtained from 3d FDTD simulations. Once again, the advantage of the RCWA-EIS method is the calculation efficiency. The RCWA-EIS calculation is 86400 times faster than 3D FDTD, which requires lots of iterations and computation memories! Here we are talking about seconds (RCWA-EIS) versus days (3D FDTD). 
 
 Project 2: Design and Fabrication of Grating-Assisted-Cylindrical-Resonant-Cavities (GARC) Interlayer Couplers for 2.5D/3D Integrated Photonics
+* The traditional rectangular grating couplers have many limitations, such as narrow spectral bandwidth, sensitive to misalignments/ridge variations, and the presence of substrate leakage loss, etc. In order to overcome these issues, I invent a fundamentally new interlayer coupler, called the grating-assisted-cylindrical-resonant-cavities (GARC) coupler, to achieve efficient and broadband coupling. The GARC coupler consists of three resonant cavities: two waveguide cavities in the horizontal direction and one cylindrical via cavity in the vertical direction. The waveguide cavities are modulated by Bessel-function-defined circular gratings. The GARC coupler is shown in the following figure. 
+<center><img src="/images/fig_garc.png" alt="GARC Coupler" style="width:500px;height:300px;"></center>
+<br/>
 
-![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/ASi_movie_y_res150_t400.gif | height = 100px)
-![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/GARC_field_gr.gif | height = 100px)
+![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/ASi_movie_y_res150_t400.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/GARC_field_gr.gif)
