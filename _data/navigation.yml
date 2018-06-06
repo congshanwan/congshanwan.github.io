@@ -4,8 +4,8 @@ main:
   - title: "Research"
     url: /test.html
 
-  - title: "Projects"
-    url: /projects/
+  - title: "Theory/Simulation"
+    url: /theoryandsimulation/
 
   - title: "Experience"
     url: /cv/
