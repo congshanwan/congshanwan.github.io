@@ -25,7 +25,7 @@ Project 1: Efficiency Optimization and Angular Misalignment Analysis of Interlay
 
 Project 2: Design and Fabrication of Grating-Assisted-Cylindrical-Resonant-Cavities (GARC) Interlayer Couplers for 2.5D/3D Integrated Photonics
 * The traditional rectangular grating couplers have many limitations, such as narrow spectral bandwidth, sensitive to misalignments/ridge variations, and the presence of substrate leakage loss, etc. In order to overcome these issues, I invent a fundamentally new interlayer coupler, called the grating-assisted-cylindrical-resonant-cavities (GARC) coupler, to achieve efficient and broadband coupling. The GARC coupler consists of three resonant cavities: two waveguide cavities in the horizontal direction and one cylindrical via cavity in the vertical direction. The waveguide cavities are modulated by Bessel-function-defined circular gratings. The GARC coupler is shown in the following figure. 
-<center><img src="/images/fig_garc.png" alt="GARC Coupler" style="width:500px;height:300px;"></center>
+<center><img src="/images/fig_garc.png" alt="GARC Coupler" style="width:500px;height:800px;"></center>
 <br/>
-Field in the vertical cross section  | Field in the bottom waveguide   Field in the top waveguide
+      Field in the vertical cross section   Field in the bottom waveguide   Field in the top waveguide
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/GARC_field_y.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/GARC_field_gr.gif)
