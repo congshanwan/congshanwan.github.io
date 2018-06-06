@@ -2,7 +2,7 @@
 main:
 
   - title: "Overview"
-   url: /overview/
+    url: /overview/
 
   - title: "Theory/Simulation"
     url: /theoryandsimulation/
