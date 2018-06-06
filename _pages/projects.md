@@ -35,4 +35,5 @@ Project 1: Efficiency Optimization and Angular Misalignment Analysis of Interlay
 
 Project 2: Design and Fabrication of Grating-Assisted-Cylindrical-Resonant-Cavities (GARC) Interlayer Couplers for 2.5D/3D Integrated Photonics
 
-![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/ASi_movie_y_res150_t400.gif)
+![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/ASi_movie_y_res150_t400.gif| width=500)
+![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/combine_tgr_bgr_res15_t400.gif| width=500)
