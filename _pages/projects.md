@@ -28,4 +28,4 @@ Project 2: Design and Fabrication of Grating-Assisted-Cylindrical-Resonant-Cavit
 <center><img src="/images/fig_garc.png" alt="GARC Coupler" style="width:500px;height:300px;"></center>
 <br/>
 Field in the vertical cross section  | Field in the bottom waveguide   Field in the top waveguide
-![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/ASi_movie_y_res150_t400.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/GARC_field_gr.gif)
+![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/GARC_field_y.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/GARC_field_gr.gif)
