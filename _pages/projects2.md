@@ -1,13 +1,23 @@
 ---
 layout: archive
-title: "Fabrication/Testing"
+title: "Fabrication and Testing"
 permalink: /fabricationandtesting/
 author_profile: true
 ---
 
 {% include base_path %}
 
-My Ph.D. projects  leverage the tools from control theory, robotics, machine learning, quadrotor motion planning and control, multi-robot system, signal filtering and estimation, Robot Operating System (ROS), linear/nonlinear/optimal/networked control. The following is a collection of results and videos for these projects.
+Project 1: Fabrication of rectangular fiber grating coupler and GARC coupler
 
-<p>P1. Air-ground coordination of robotic swarm on the Robotarium</p>
-<iframe style="overflow:hidden;height:70%;width:70%" width="420" height="315" src="https://www.youtube.com/embed/fUp5gY6u_w4?rel=0" frameborder="0" allowfullscreen></iframe>
+%<center><img src="/images/i2.JPG" alt="Circular Grating" style="width:600px;height:360px;"></center>
+
+%<center><img src="/images/j8.JPG" alt="Rectangular Grating" style="width:600px;height:360px;"></center>
+
+
+
+Project 2: Fabrication of self-aligned fiber fixture
+
+
+
+
+Project 3: Fabrication and testing of Carbon nanotube transistor
