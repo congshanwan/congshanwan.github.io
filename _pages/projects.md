@@ -8,7 +8,8 @@ author_profile: true
 {% include base_path %}
 Details of Project 1 and 2 can be found from the publications or [<b>here</b>](http://congshanwan.github.io/files/proposal_Congshan_Wan.pdf). 
 
-Project 1: Efficiency Optimization and Angular Misalignment Analysis of Interlayer Grating Couplers 
+**Project 1**: Efficiency Optimization and Angular Misalignment Analysis of Interlayer Grating Couplers 
+
 * A new theory, the “equivalent index slab (EIS)” method, is proposed to extend the rigorous coupled-wave analysis (RCWA) to rectangular diffraction grating involving surface waves. The grating layer is replaced by multiple uniform slab waveguides, the equivalent index slabs, such that the field amplitudes and phases at the cover-grating interface and the grating-waveguide interface remain unchanged. <br/>
 <center><img src="/images/fig_slab.png" alt="Equivalent Index Slabs" style="width:500px;height:250px;"></center>
 
@@ -24,7 +25,8 @@ Project 1: Efficiency Optimization and Angular Misalignment Analysis of Interlay
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/rotate_001_eff.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/rotate_100_eff.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/rotate_221_eff.gif)  |    
 
 
-Project 2: Design of Grating-Assisted-Cylindrical-Resonant-Cavities (GARC) Interlayer Couplers 
+**Project 2**: Design of Grating-Assisted-Cylindrical-Resonant-Cavities (GARC) Interlayer Couplers 
+
 * A fundamentally new  GARC coupler is proposed to achieve efficient and broadband interlayer coupling. The GARC coupler consists of three resonant cavities: two waveguide cavities in the horizontal direction and one cylindrical via cavity in the vertical direction. The structure of the GARC coupler and the spectral response are shown in the following figures. 
 
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/fig_garc.png)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/fig_GARC_bandwidth.png) |
@@ -34,7 +36,8 @@ Project 2: Design of Grating-Assisted-Cylindrical-Resonant-Cavities (GARC) Inter
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/GARC_field_y.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/GARC_field_gr.gif) |
 
 
-Side Projects: FDTD, FEM and BPM simulations
+**Side Projects**: FDTD, FEM and BPM simulations
+
 * Self-coded 3D FDTD simulation of patch antennas implemented in Matlab
 
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/antenna_Ez.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/antenna_Hx.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/antenna_Hy.gif)  |
