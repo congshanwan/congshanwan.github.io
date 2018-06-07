@@ -26,16 +26,9 @@ Project 1: Efficiency Optimization and Angular Misalignment Analysis of Interlay
 
 Project 2: Design of Grating-Assisted-Cylindrical-Resonant-Cavities (GARC) Interlayer Couplers 
 * A fundamentally new  GARC coupler is proposed to achieve efficient and broadband interlayer coupling. The GARC coupler consists of three resonant cavities: two waveguide cavities in the horizontal direction and one cylindrical via cavity in the vertical direction. The structure of the GARC coupler and the spectral response are shown in the following figures. 
-<center><img src="/images/fig_garc.png" alt="GARC Coupler" style="width:500px;height:530px;"></center>
-<br/>
-<center><img src="/images/fig_GARC_bandwidth.png" alt="GARC Bandwidth" style="width:500px;height:380px;"></center>
-<br/>
-
 ![GARC Coupler](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/fig_garc.png)  |  ![GARC Bandwidth](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/fig_GARC_bandwidth.png) 
 
 * The movies show the field propagation in the GARC coupler (from left to right: vertical cross section, the bottom waveguide, and the top waveguide, simulation done by MEEP FDTD), assuming the input field is launched from the top waveguide from the right.  
-
-     
 ![GARC_field_xz](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/GARC_field_y.gif)  |  ![GARC_field_xy](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/GARC_field_gr.gif) 
 
 
@@ -44,5 +37,12 @@ Side Projects: FDTD, FEM and BPM simulations
 ![antenna_Ez](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/antenna_Ez.gif)  |  ![antenna_Hx](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/antenna_Hx.gif)  |  ![antenna_Hy](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/antenna_Hy.gif)  
 
 * Self-coded 2D FEM simulation of microstrip implemented in Matlab
+<center><img src="/images/fig_FEM_potential.png" alt="FEM" style="width:500px;height:250px;"></center>
+
+* Lumerical FDTD simulations
+
+* MEEP FDTD simulations
+
+* COMSOL FEM simulations
 
 
