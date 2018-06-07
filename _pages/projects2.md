@@ -16,14 +16,9 @@ author_profile: true
 <center><img src="/images/probe_stage.jpg" alt="Probe Stage" style="width:600px;height:440px;"></center>
 
 
-
-
-
 **Project 2**: Fabrication of self-aligned fiber fixture
 
-To be added :)
-
-
+<center><img src="/images/fiber_fixture_16.png" alt="Fiber Fixture" style="width:600px;height:440px;"></center>
 
 
 **Project 3**: Fabrication and testing of Carbon nanotube transistor
