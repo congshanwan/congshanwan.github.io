@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Project 1: Fabrication and testing of rectangular fiber grating coupler and GARC coupler
+**Project 1**: Fabrication and testing of rectangular fiber grating coupler and GARC coupler
 
 <center><img src="/images/i2.jpg" alt="Circular Grating" style="width:600px;height:440px;"></center>
 
@@ -19,13 +19,12 @@ Project 1: Fabrication and testing of rectangular fiber grating coupler and GARC
 
 
 
-Project 2: Fabrication of self-aligned fiber fixture
+**Project 2**: Fabrication of self-aligned fiber fixture
 
 To be added :)
 
 
 
 
-Project 3: Fabrication and testing of Carbon nanotube transistor
-
-To be added :)
+**Project 3**: Fabrication and testing of Carbon nanotube transistor
+<center><img src="/images/CNT.png" alt="CNT Transistor" style="width:600px;height:440px;"></center>
