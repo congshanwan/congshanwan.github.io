@@ -18,7 +18,7 @@ author_profile: true
 
 **Project 2**: Fabrication of self-aligned fiber fixture
 
-<center><img src="/images/fiber_fixture_16.png" alt="Fiber Fixture" style="width:600px;height:440px;"></center>
+<center><img src="/images/fiber_fixture_16.jpg" alt="Fiber Fixture" style="width:600px;height:440px;"></center>
 
 
 **Project 3**: Fabrication and testing of Carbon nanotube transistor
