@@ -36,7 +36,12 @@ Project 2: Design of Grating-Assisted-Cylindrical-Resonant-Cavities (GARC) Inter
 
 Side Projects: FDTD, FEM and BPM simulations
 * Self-coded 3D FDTD simulation of patch antennas implemented in Matlab
+
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/antenna_Ez.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/antenna_Hx.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/antenna_Hy.gif)  |
+
+* Self-coded 3D FDTD simulation using different boundary conditions implemented in Matlab
+
+![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/b_Ez_PEC.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/b_Ez_PMC.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/b_Ez_ABC.gif)  | ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/b_Ez_PML.gif)  |
 
 * Self-coded 2D FEM simulation of microstrip implemented in Matlab
 <center><img src="/images/fig_FEM_potential.png" alt="FEM" style="width:500px;height:250px;"></center>
