@@ -44,12 +44,15 @@ Side Projects: FDTD, FEM and BPM simulations
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/b_Ez_PEC.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/b_Ez_PMC.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/b_Ez_ABC.gif)  | ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/b_Ez_PML.gif)  |
 
 * Self-coded 2D FEM simulation of microstrip implemented in Matlab
-<center><img src="/images/fig_FEM_potential.png" alt="FEM" style="width:500px;height:250px;"></center>
+<center><img src="/images/fig_FEM_potential.png" alt="FEM" style="width:500px;height:450px;"></center>
 
 * Lumerical FDTD simulations
 
 * MEEP FDTD simulations
 
-* COMSOL FEM simulations
+* COMSOL FEM simulation of pillar size changes in a photonic waveguide
+![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/photonic_waveguide.gif) 
+
+
 
 
