@@ -51,7 +51,7 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 
 * Self-coded FFT-BPM simulation of a Mach–Zehnder interferometer implemented in Matlab
 
-![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/FFT_BPM_MZI_1.png)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/FFT_BPM_MZI.png) |
+![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/FFT_BPM1.png)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/FFT_BPM.png) |
 
 * Lumerical FDTD simulations
 
