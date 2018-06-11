@@ -35,8 +35,6 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/GARC_field_y.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/GARC_field_gr.gif) |
 
-<img src="https://github.com/congshanwan/congshanwan.github.io/raw/master/files/GARC_field_y.gif" height="300">
-
 
 **Side Projects**: FDTD, FEM and BPM simulations
 
