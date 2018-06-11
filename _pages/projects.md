@@ -58,7 +58,6 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 * MEEP FDTD simulations
 
 * COMSOL FEM simulation of pillar size changes in a photonic waveguide
-![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/photonic_waveguide.gif) 
 
 <p align="center">
 <img src="https://github.com/congshanwan/congshanwan.github.io/raw/master/files/photonic_waveguide.gif"/>
