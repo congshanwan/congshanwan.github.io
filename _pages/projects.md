@@ -51,7 +51,7 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 * Self-coded 2D FEM simulation of microstrip implemented in Matlab
 <center><img src="/images/fig_FEM_potential.png" alt="FEM" style="width:500px;height:410px;"></center>
 
-* Self-coded FFT-BPM simulation of Mach–Zehnder interferometer implemented in Matlab
+* Self-coded FFT-BPM simulation of a Mach–Zehnder interferometer implemented in Matlab
 
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/FFT_BPM_MZI_1.png)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/FFT_BPM_MZI.png) |
 
