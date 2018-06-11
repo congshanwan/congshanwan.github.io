@@ -42,12 +42,16 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/antenna_Ez.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/antenna_Hx.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/antenna_Hy.gif)  |
 
-* Self-coded 3D FDTD simulation using different boundary conditions implemented in Matlab
+* Self-coded 2D FDTD simulation using different boundary conditions implemented in Matlab
 
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/b_Ez_PEC.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/b_Ez_PMC.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/b_Ez_ABC.gif)  | ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/b_Ez_PML.gif)  |
 
 * Self-coded 2D FEM simulation of microstrip implemented in Matlab
 <center><img src="/images/fig_FEM_potential.png" alt="FEM" style="width:500px;height:450px;"></center>
+
+* Self-coded FFT-BPM simulation of Mach–Zehnder interferometer implemented in Matlab
+
+![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/FFT_BPM_MZI_1.png)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/FFT_BPM_MZI.png) |
 
 * Lumerical FDTD simulations
 
@@ -55,6 +59,12 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 
 * COMSOL FEM simulation of pillar size changes in a photonic waveguide
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/photonic_waveguide.gif) 
+
+<p align="center">
+<img src="https://github.com/congshanwan/congshanwan.github.io/raw/master/files/photonic_waveguide.gif"/>
+</p>
+
+
 
 
 
