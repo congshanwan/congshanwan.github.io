@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-A PDF version of my CV can be obtained from [<b>here</b>](http://congshanwan.github.io/files/Congshan_resume.pdf).
+A PDF version of my CV can be obtained from [<b>here</b>](http://congshanwan.github.io/files/Congshan_Resume.pdf).
 
 Education
 ======
