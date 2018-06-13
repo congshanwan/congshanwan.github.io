@@ -10,7 +10,7 @@ A1. **C. Wan**, T. K. Gaylord, and M. S. Bakir, “Grating design for interlayer
 A2. **C. Wan**, T. K. Gaylord, and M. S. Bakir, “RCWA-EIS method for interlayer grating coupling,” Appl. Opt. vol. 55, no. 22, pp. 5900-5908, 2016. [<b>PDF</b>](http://congshanwan.github.io/files/Wan_2016_RCWA_EIS.pdf) (Ph.D. Project 1)<br/>
 A3. **C. Wan**, T. K. Gaylord, and M. S. Bakir, “Rigorous coupled-wave analysis equivalent-index-slab method for analyzing 3D angular misalignment in interlayer grating couplers,” Appl. Opt. vol. 55, no. 35, pp. 10006-10015, 2016. [<b>PDF</b>](http://congshanwan.github.io/files/Wan_2016_3d.pdf) (Ph.D. Project 1)<br/>
 A4. **C. Wan**, T. K. Gaylord, and M. S. Bakir, “Circular waveguide grating-via-grating for interlayer coupling,” IEEE Photon. Technol. Lett., vol. 29, no. 21, pp. 1776-1779, 2017. [<b>PDF</b>](http://congshanwan.github.io/files/Wan_2017_GVG.pdf) (Ph.D. Project 2)<br/>
-A5. **C. Wan**, T. K. Gaylord, and M. S. Bakir, “Grating-assisted-cylindrical-resonant-cavities interlayer coupler,” Appl. Opt. 2018, accepted. [<b>PDF</b>](http://congshanwan.github.io/files/Wan_2018_AO.pdf) (Ph.D. Project 2)<br/>
+A5. **C. Wan**, T. K. Gaylord, and M. S. Bakir, “Grating-assisted-cylindrical-resonant-cavities interlayer coupler,” Appl. Opt. vol. 57, no. 18, pp. 5079-5089, 2018. [<b>PDF</b>](http://congshanwan.github.io/files/Wan_2018_GARC.pdf) (Ph.D. Project 2)<br/>
 A6. X. Pang, **C. Wan**, M. Wang, and Z. Lin, “Strictly biphasic soft and hard Janus structures: synthesis, properties, and applications,” Angew. Chem. Int. Ed., vol. 53, no. 22, pp. 5524-5538, 2014. [<b>PDF</b>](http://congshanwan.github.io/files/Janus.pdf) (M.S. Project)<br/>
 
 B. Conference Papers
