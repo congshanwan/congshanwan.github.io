@@ -38,7 +38,7 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 
 **Side Projects**: FDTD, FEM and BPM simulations
 
-* Self-coded 3D FDTD simulation of patch antennas implemented in Matlab
+* Self-coded 3D FDTD simulation of a patch antenna implemented in Matlab
 
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/antenna_Ez.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/antenna_Hx.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/antenna_Hy.gif)  |
 
@@ -46,7 +46,7 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/b_Ez_PEC.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/b_Ez_PMC.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/b_Ez_ABC.gif)  | ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/b_Ez_PML.gif)  |
 
-* Self-coded 2D FEM simulation of microstrip implemented in Matlab
+* Self-coded 2D FEM simulation of a microstrip implemented in Matlab
 <center><img src="/images/fig_FEM_potential.png" alt="FEM" style="width:500px;height:410px;"></center>
 
 * Self-coded FFT-BPM simulation of a Mach–Zehnder interferometer implemented in Matlab
@@ -61,6 +61,9 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 <p align="center">
 <img src="https://github.com/congshanwan/congshanwan.github.io/raw/master/files/photonic_waveguide.gif"/>
 </p>
+
+* COMSOL FEM simulation of an interlayer grating coupler
+<center><img src="/images/fig_comsol.png" alt="Equivalent Index Slabs" style="width:500px;height:250px;"></center>
 
 
 
