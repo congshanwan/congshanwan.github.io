@@ -55,7 +55,8 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 
 * Lumerical FDTD simulations
 
-* MEEP FDTD simulations
+* MEEP FDTD simulation of a fiber grating coupler
+<center><img src="/images/fig_meep.png" alt="MEEP" style="width:500px;height:350px;"></center>
 
 * COMSOL FEM simulation of pillar size changes in a photonic waveguide
 <p align="center">
@@ -63,7 +64,7 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 </p>
 
 * COMSOL FEM simulation of an interlayer grating coupler
-<center><img src="/images/fig_comsol.png" alt="Equivalent Index Slabs" style="width:500px;height:250px;"></center>
+<center><img src="/images/fig_comsol.png" alt="COMSOL" style="width:500px;height:350px;"></center>
 
 
 
