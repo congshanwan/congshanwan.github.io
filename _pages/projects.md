@@ -53,6 +53,10 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/FFT_BPM1.png)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/FFT_BPM.png) |
 
+* Self-coded FD-BPM simulation of a waveguide coupler implemented in Matlab
+
+![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/fig_FD_BPM2.png)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/fig_FD_BPM3.png) |    ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/fig_FD_BPM4.png) |
+
 * Lumerical FDTD simulations
 
 * MEEP FDTD simulation of a fiber grating coupler
