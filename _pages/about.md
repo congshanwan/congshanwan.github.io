@@ -13,5 +13,7 @@ I earned my M.S. and B.S. in MSE from Georgia Tech and UIUC, respectively. I hav
 I like painting, reading, and hiking in my part time, and I am an active seeker for anything new!
 
 
-![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/fig_tystar.jpg)  | ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/Wan_fdtd.gif)  |
+![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/fig_tystar.jpg)  |
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/fig_JEOL.jpg) |
+
+![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/Wan_fdtd.gif) 
