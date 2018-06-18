@@ -18,6 +18,6 @@ I like painting, reading, and hiking in my part time, and I am an active seeker 
 
 
 <p align="center">
-<img src="https://github.com/congshanwan/congshanwan.github.io/raw/master/files/Wan_fdtd.gif"/>
+<img src="https://github.com/congshanwan/congshanwan.github.io/raw/master/files/W_fdtd.gif"/>
 </p>
 
