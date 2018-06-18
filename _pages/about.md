@@ -17,7 +17,4 @@ I like painting, reading, and hiking in my part time, and I am an active seeker 
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/fig_JEOL.jpg) |
 
 
-<p align="center">
-<img src="https://github.com/congshanwan/congshanwan.github.io/raw/master/files/W_fdtd.gif"/>
-</p>
-
+![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/W_fdtd.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/A_fdtd.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/N_fdtd.gif)  |
