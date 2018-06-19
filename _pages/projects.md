@@ -57,7 +57,7 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/fig_FD_BPM2.png)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/fig_FD_BPM3.png) |    ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/fig_FD_BPM4.png) |
 
-* Lumerical FDTD simulation of a ring-resonator
+* Lumerical Mode Solution 2.5D var-FDTD simulation of a ring-resonator
 <p align="center">
 <img src="https://github.com/congshanwan/congshanwan.github.io/raw/master/files/ring_resonator_lumerical.gif"/>
 </p>
