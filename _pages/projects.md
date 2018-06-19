@@ -71,7 +71,7 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 </p>
 
 * COMSOL FEM simulation of an interlayer grating coupler
-<center><img src="/images/fig_comsol.png" alt="COMSOL" style="width:500px;height:350px;"></center>
+<center><img src="/images/fig_inter_gr.png" alt="COMSOL" style="width:500px;height:350px;"></center>
 
 
 
