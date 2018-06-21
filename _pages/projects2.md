@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Current Project 1**: Fabrication and testing of rectangular fiber grating coupler and GARC coupler
+**Current Project 1**: Fabrication and Testing of Rectangular Fiber Grating Coupler and GARC Coupler
 
 <center><img src="/images/i2.jpg" alt="Circular Grating" style="width:600px;height:440px;"></center>
 
@@ -16,10 +16,10 @@ author_profile: true
 <center><img src="/images/probe_stage.jpg" alt="Probe Stage" style="width:600px;height:440px;"></center>
 
 
-**Current Project 2**: Fabrication of self-aligned fiber fixture
+**Current Project 2**: Fabrication of Self-Aligned Fiber Fixture
 
 <center><img src="/images/fiber_fixture_16.jpg" alt="Fiber Fixture" style="width:600px;height:440px;"></center>
 
 
-**Previous Project**: Fabrication and testing of Carbon nanotube transistor
+**Previous Project**: Fabrication and Testing of Carbon Nanotube Transistor
 <center><img src="/images/CNT.png" alt="CNT Transistor" style="width:600px;height:440px;"></center>
