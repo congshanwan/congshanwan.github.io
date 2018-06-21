@@ -64,7 +64,7 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 
 * Lumerical FDTD Solutions port excitation of an interlayer grating coupler
 <p align="center">
-<img src="https://github.com/congshanwan/congshanwan.github.io/raw/master/files/lumerical_inter_gr.gif"/>
+<img src="https://github.com/congshanwan/congshanwan.github.io/raw/master/files/lumerical_gr_movie.gif"/>
 </p>
 
 * MEEP FDTD simulation of a fiber grating coupler
