@@ -36,7 +36,7 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/GARC_field_y.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/GARC_field_gr.gif) |
 
 
-**Side Projects**: FDTD, FEM and BPM simulations
+**Side Projects**: FDTD, FEM and BPM Simulations
 
 * Self-coded 3D FDTD simulation of a patch antenna implemented in Matlab
 
