@@ -35,8 +35,8 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/GARC_field_y.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/GARC_field_gr.gif) |
 
-* GARC coupler is also simulated using Lumerical 3D FDTD. In this case, light is launched from the bottom waveguide, thus GARC exhibit reciprocal coupling. 
-<center><img src="/images/fig_y_Hy_abs_show2.png" alt="GARC Lumerical" style="width:500px;height:150px;"></center>
+* GARC coupler is also simulated using Lumerical 3D FDTD. In this case, light is launched from the bottom waveguide, thus GARC exhibit reciprocal coupling. <br/>
+<center><img src="/images/fig_y_Hy_abs_show2.jpg" alt="GARC Lumerical" style="width:500px;height:150px;"></center>
 <br/>
 
 
