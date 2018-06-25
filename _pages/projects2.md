@@ -16,7 +16,7 @@ author_profile: true
 <center><img src="/images/probe_stage.jpg" alt="Probe Stage" style="width:600px;height:440px;"></center>
 
 
-**Current Project 2**: Fabrication of Self-Aligned Fiber Fixture
+**Current Project 2**: Fabrication of Self-Aligned Fiber Fixture Using Two-Photon Polymerization
 
 <center><img src="/images/fiber_fixture_16.jpg" alt="Fiber Fixture" style="width:600px;height:440px;"></center>
 
