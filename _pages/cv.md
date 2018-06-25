@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-A PDF version of my CV can be obtained from [<b>here</b>](http://congshanwan.github.io/files/Congshan_Resume.pdf).
+A PDF version of my CV can be obtained from [<b>here</b>](http://congshanwan.github.io/files/Congshan_Resume_with_overview.pdf).
 
 Education
 ======
@@ -67,8 +67,8 @@ May 2011 - Aug 2011: Research Intern, Institute of Microelectronics at Chinese A
   
 Technical Strengths
 ====== 
-Software Skills:
-  * Matlab, Latex, LabVIEW, Autocad, Solidworks, COMSOL, Lumerical FDTD, MEEP FDTD, BeamPROP, BeamLab in Matlab, SAS JMP, GenISys BEAMER, InDesign, PhotoShop, Illustrator, C and C++, Java<br/>
+Software and Programming Skills:
+  * Matlab, LabVIEW, COMSOL, Lumerical (FDTD, MODE, DEVICE, INTERCONNECT), MEEP FDTD, BeamPROP, Zemax, SAS JMP, GenISys BEAMER, Autocad, Solidworks, Latex, InDesign, PhotoShop, Illustrator, C and C++, Java<br/>
   
 Electromagnetic Theory and Devices:
   * Fourier optics, diffractive optics, photonics, plasmonics, waveguide, fiber, resonator, interferometer, photonic crystals<br/>
