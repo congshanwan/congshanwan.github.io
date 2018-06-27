@@ -52,7 +52,7 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/b_Ez_PEC.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/b_Ez_PMC.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/b_Ez_ABC.gif)  | ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/b_Ez_PML.gif)  |
 
 * Self-coded 2D FEM simulation of a microstrip implemented in Matlab
-<center><img src="/images/fig_FEM_potential.png" alt="FEM" style="width:500px;height:410px;"></center>
+<center><img src="/images/fig_FEM_potential.png" alt="FEM" style="width:500px;height:380px;"></center>
 
 * Self-coded FFT-BPM simulation of a Mach–Zehnder interferometer implemented in Matlab
 
