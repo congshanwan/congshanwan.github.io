@@ -72,6 +72,9 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 <img src="https://github.com/congshanwan/congshanwan.github.io/raw/master/files/lumerical_movie_gr.gif"/>
 </p>
 
+* Lumerical INTERCONNECT simulation of a 4-channel wavelength division multiplexing network (PDK)
+<center><img src="/images/interconnect_WDM_4ch.png" alt="COMSOL" style="width:1500px;height:350px;"></center>
+
 * MEEP FDTD simulation of a fiber grating coupler
 <center><img src="/images/fig_meep.png" alt="MEEP" style="width:500px;height:350px;"></center>
 
