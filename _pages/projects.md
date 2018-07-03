@@ -16,7 +16,7 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 * The proposed RCWA-EIS method can be used to calculate grating coupling efficiency of various grating structures, including binary gratings, sawtooth gratings, parallelogramic gratings, volume gratings, as well as grating with bottom reflectors, etc. The RCWA-EIS method, implemented in Matlab and solving problem analytically, is 2000 times faster than 2D FDTD, e.g. 0.1 second versus minutes. <br/>
 <center><img src="/images/fig_gr_opt.png" alt="Optimized Gratings" style="width:700px;height:360px;"></center>
 
-* The benefit of the RCWA-EIS method is that it solves the waveguide grating coupling problem from the in-coupling process, thus the conical incidence formulation can be used to model the angular misalingment effects. The RCWA-EIS calculation is 86400 times faster than 3D FDTD, which requires lots of iterations and computation memories! Here we are talking about seconds (RCWA-EIS) versus days (3D FDTD). <br/>
+* The benefit of the RCWA-EIS method is that it solves the waveguide grating coupling problem from the in-coupling process, thus the conical incidence formulation can be used to model the angular misalignment effects. The RCWA-EIS calculation is 86400 times faster than 3D FDTD, which requires lots of iterations and computation memories! Here we are talking about seconds (RCWA-EIS) versus days (3D FDTD). <br/>
 <center><img src="/images/fig_rot.png" alt="Rotated Bottom Grating" style="width:500px;height:300px;"></center>
 <br/>
 
