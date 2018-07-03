@@ -22,7 +22,7 @@ A self-aligned part fabricated using two-photon polymerization
 <center><img src="/images/fiber_fixture_16.jpg" alt="Fiber Fixture" style="width:600px;height:440px;"></center>
 
 Pit etched into Si using KOH (images are focused at different depths)
-<center><img src="/images/fig_pit.png" alt="Etch pit" style="width:600px;height:200px;"></center>
+<center><img src="/images/fig_pit.png" alt="Etch pit" style="width:600px;height:150px;"></center>
 
 
 **Previous Project**: Fabrication and Testing of Carbon Nanotube Transistor
