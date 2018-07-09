@@ -68,7 +68,7 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 </p>
 
 * Lumerical Mode Solutions 2.5D var-FDTD simulation of an arrayed waveguide grating
-![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/AWG1.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/AWG2.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/AWG3.gif)  
+<center><img src="/images/fig_awg.png" alt="COMSOL" style="width:500px;height:500px;"></center>
 
 * Lumerical FDTD Solutions port excitation of an interlayer grating coupler
 <p align="center">
