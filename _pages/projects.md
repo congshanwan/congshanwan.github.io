@@ -68,6 +68,7 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 </p>
 
 * Lumerical Mode Solutions 2.5D var-FDTD simulation of an arrayed waveguide grating
+
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/AWG1s.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/AWG2s.gif)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/AWG3s.gif)  |
 
 
