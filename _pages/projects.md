@@ -64,7 +64,7 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 
 * Lumerical Mode Solutions 2.5D var-FDTD simulation of a ring-resonator
 <p align="center">
-<img src="https://github.com/congshanwan/congshanwan.github.io/raw/master/files/ring_resonator_lumerical.gif"/>
+<img src="https://github.com/congshanwan/congshanwan.github.io/raw/master/files/ring_res_Hmag.gif"/>
 </p>
 
 * Lumerical FDTD Solutions port excitation of an interlayer grating coupler
