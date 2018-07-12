@@ -13,7 +13,7 @@ author_profile: true
 
 <center><img src="/images/j8.jpg" alt="Rectangular Grating" style="width:600px;height:440px;"></center>
 
-<center><img src="/images/probe_stage.jpg" alt="Probe Stage" style="width:600px;height:440px;"></center>
+<center><img src="/images/probe_stage2.jpg" alt="Probe Stage" style="width:600px;height:440px;"></center>
 
 
 **Current Project 2**: Fabrication of Self-Aligned Fiber Fixture 
