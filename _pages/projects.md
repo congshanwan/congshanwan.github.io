@@ -91,6 +91,9 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 * COMSOL FEM simulation of an interlayer grating coupler
 <center><img src="/images/fig_inter_gr.png" alt="COMSOL" style="width:500px;height:350px;"></center>
 
+* Zemax OpticStudio sequential model of a double telecentric system 
+<center><img src="/images/zemax_sequential.png" alt="COMSOL" style="width:1000px;height:300px;"></center>
+
 
 
 
