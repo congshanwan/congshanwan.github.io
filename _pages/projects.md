@@ -94,6 +94,9 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 * Zemax OpticStudio sequential model of a double telecentric system using Edmund Optics lenses
 <center><img src="/images/zemax_sequential.png" alt="COMSOL" style="width:1000px;height:200px;"></center>
 
+* Zemax OpticStudio non-sequential model of the grating diffraction phenomenon with Gaussian-type (small angle) surface scattering
+<center><img src="/images/zemax_grating_scatter_nsc.png" alt="COMSOL" style="width:1000px;height:300px;"></center>
+
 
 
 
