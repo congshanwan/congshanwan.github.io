@@ -97,6 +97,9 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 * Zemax OpticStudio non-sequential model of the grating diffraction phenomenon with Gaussian-type (small angle) surface scattering
 <center><img src="/images/zemax_grating_scatter_nsc.png" alt="COMSOL" style="width:1000px;height:300px;"></center>
 
+* Zemax OpticStudio non-sequential model of a Gaussian beam scattered by Silica substrate; In my experiement, beam spreading (due to back-scattering at the substrate) was observed during fiber-to-grating alignment under an IR camera 
+<center><img src="/images/zemax_gaussian_beam_scatter.png" alt="COMSOL" style="width:1000px;height:300px;"></center>
+
 
 
 
