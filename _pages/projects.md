@@ -14,7 +14,7 @@ Details of Project 1 and 2 can be found from the publications or [<b>here</b>](h
 <center><img src="/images/fig_slab.png" alt="Equivalent Index Slabs" style="width:500px;height:250px;"></center>
 
 * The new method was featured on the journal cover (Appl. Opt. vol. 55, no. 10)
-<center><img src="/images/journal_cover.png" alt="cover" style="width:500px;height:250px;"></center>
+<center><img src="/images/journal_cover.png" alt="cover" style="width:500px;height:300px;"></center>
 
 * The proposed RCWA-EIS method can be used to calculate grating coupling efficiency of various grating structures, including binary gratings, sawtooth gratings, parallelogramic gratings, volume gratings, as well as grating with bottom reflectors, etc. The RCWA-EIS method, implemented in Matlab and solving problem analytically, is 2000 times faster than 2D FDTD, e.g. 0.1 second versus minutes. <br/>
 <center><img src="/images/fig_gr_opt.png" alt="Optimized Gratings" style="width:700px;height:360px;"></center>
