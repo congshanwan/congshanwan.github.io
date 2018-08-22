@@ -48,7 +48,7 @@ Aug 2010 - May 2013: Undergraduate Research Assistant, MSE, University of Illino
 Jan 2013 - May 2013: Undergraduate Senior Design, MSE, University of Illinois at Urbana-Champaign
   * Advisor: M. Shim
   * Project: Flexible/Wearable QLED Display Integration and Testing<br/>
-  · Sandwiched self-assembled CdSe quantum dot monolayer between TFB (with PEDOT:PSS) HTL and ZnO nanoparticle ETL, which was then encapsulated by ITO coated parylene-epoxy and transfered to a flexible polyimide substrate<br/>
+  · Sandwiched self-assembled CdSe quantum dot monolayer between TFB (with PEDOT:PSS) hole transporting layer and ZnO nanoparticle electron transporting layer, which was then encapsulated by ITO coated parylene-epoxy and transfered to a flexible polyimide substrate<br/>
   · Measured the PL of the quantum dot layer and J-V-L, EL and EQE characteristics of the QLED<br/>
   
 Internship Experience
