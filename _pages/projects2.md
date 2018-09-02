@@ -27,6 +27,9 @@ Pit etched into Si using KOH (images are focused at different depths)
 Assembled fiber alignment fixture (including version 2 self-aligned part and Si etch pit)
 <center><img src="/images/assembly.jpg" alt="assembly" style="width:600px;height:440px;"></center>
 
+Assembled chips using self-alignment structures
+<center><img src="/images/setup_combine.jpg" alt="assembly" style="width:600px;height:440px;"></center>
+
 
 **Previous Project**: Fabrication and Testing of Carbon Nanotube Transistor
 <center><img src="/images/CNT.png" alt="CNT Transistor" style="width:600px;height:440px;"></center>
