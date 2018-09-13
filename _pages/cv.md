@@ -79,7 +79,7 @@ and Hopkins’ method), full-wave simulation, finite-difference time domain (FDT
   
 Optical system integration and testing:
   * passive alignment (flip-chip bonder), active alignment (6-degree rotation stage, laser, photodetector, etc.), time-of-flight
-measurement, frequency domain measurement, linewidth measurement, optical power measurement, digital communications analyzer (DCA), vector network analyser (VNA), bit error ratio tester (BERT)<br/>
+measurement, frequency domain measurement, linewidth measurement, optical power measurement, digital communications analyzer (DCA), vector network analyzer (VNA), bit error ratio tester (BERT)<br/>
   
 Microfabrication Techniques:
   * UV lithography, laser lithography, e-beam lithography, mask alignment, e-beam evaporation, chemical vapor deposition, atomic layer deposition, reactive ion etching, oxygen plasma treatment, sputtering, transfer printing<br/>
