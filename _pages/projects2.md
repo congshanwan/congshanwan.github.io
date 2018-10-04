@@ -35,6 +35,11 @@ Assembled fiber alignment fixture (looking from the bottom, including version 2 
 Assembled chips using self-alignment structures (looking from the top)
 <center><img src="/images/setup_combine.jpg" alt="assembly" style="width:600px;height:440px;"></center>
 
+Animated process of self-alignment structure assembly (version 3)
+<p align="center">
+<img src="https://github.com/congshanwan/congshanwan.github.io/raw/master/files/Assem_all_movie4x3.gif"/>
+</p>
+
 
 **Previous Project**: Fabrication and Testing of Carbon Nanotube Transistor
 <center><img src="/images/CNT.png" alt="CNT Transistor" style="width:600px;height:440px;"></center>
