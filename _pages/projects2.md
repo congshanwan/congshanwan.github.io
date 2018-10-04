@@ -40,7 +40,8 @@ Animated process of self-alignment structure assembly (version 3)
 <img src="https://github.com/congshanwan/congshanwan.github.io/raw/master/files/Assem_all_movie4x3.gif"/>
 </p>
 
-![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/assem_v3.jpg)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/files/Assem_all_movie4x3.gif) |
+<center><img src="/images/assem_v3.jpg" alt="assembly" style="width:600px;height:440px;"></center>
+
 
 **Previous Project**: Fabrication and Testing of Carbon Nanotube Transistor
 <center><img src="/images/CNT.png" alt="CNT Transistor" style="width:600px;height:440px;"></center>
