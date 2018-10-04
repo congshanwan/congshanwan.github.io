@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-A PDF version of my CV can be obtained from [<b>here</b>](http://congshanwan.github.io/files/cv_overview.pdf).
+A PDF version of my CV can be obtained from [<b>here</b>](http://congshanwan.github.io/files/cv_overview2.pdf).
 
 Education
 ======
@@ -22,7 +22,7 @@ Jan 2015 - present: Graduate Research Assistant, ECE, Georgia Institute of Techn
   * Advisors: T. K. Gaylord and M. S. Bakir
   * Project 1: Efficiency Optimization and Angular Misalignment Analysis of Interlayer Grating Couplers for 2.5D/3D Integrated Photonics<br/>
   · Proposed a new simulation method based on the rigorous coupled-wave analysis (RCWA) to accurately calculate the coupling efficiency of interlayer grating couplers with various profiles and analyze the effects of angular misalignments<br/>
-  · Demonstrated proficiency in optimization algorithm, Matlab coding, FDTD (Lumerical and MEEP), FEM (Comsol), and ray tracing (Zemax) simulations as well as solid understanding of integrated photonics and diffractive optics<br/>
+  · Demonstrated proficiency in optimization algorithm, Matlab/Python, FDTD (Lumerical and MEEP), FEM (Comsol), and ray tracing (Zemax) simulations as well as solid understanding of integrated photonics and diffractive optics<br/>
   
   * Project 2: Design and Fabrication of Grating-Assisted-Cylindrical-Resonant-Cavities (GARC) Interlayer Couplers for 2.5D/3D Integrated Photonics<br/>
   · Invented a new type of interlayer optical coupler (GARC) based on cylindrical resonant cavities and circular gratings to achieve efficient and broadband interlayer coupling, which is disclosed in U.S. Patent Application No. 62/557,240<br/>
@@ -55,7 +55,7 @@ Internship Experience
 May 2017 - Aug 2017: Research Intern, OFS Fitel LLC
   * Advisor: D. Peckham
   * Project: Dopant Diffusion Modeling and Fiber Testing<br/>
-  · Developed dopant diffusion models for fiber D2 treatment and reaction-limited process using Matlab<br/>
+  · Developed dopant diffusion models for fiber D2 treatment and reaction-limited process using Python<br/>
   · Conducted microbending/macrobending test and OTDR test on single-mode fibers and SCUBA fibers<br/>
   · Improved fusion splicing recipes for single-mode fibers, submarine SCUBA fibers and terrestrial ULL fibers<br/>
   
@@ -69,7 +69,7 @@ May 2011 - Aug 2011: Research Intern, Institute of Microelectronics at Chinese A
 Technical Strengths
 ====== 
 Software and Programming Skills:
-  * Matlab, LabVIEW, COMSOL, Lumerical (FDTD, MODE, DEVICE, INTERCONNECT), MEEP FDTD, BeamPROP, Zemax, ANSYS, SAS JMP, GenISys BEAMER, Autocad, Solidworks, Latex, InDesign, PhotoShop, Illustrator, C and C++, Java<br/>
+  * Matlab, Python, LabVIEW, COMSOL, Lumerical (FDTD, MODE, DEVICE, INTERCONNECT), MEEP FDTD, BeamPROP, Zemax, ANSYS, SAS JMP, GenISys BEAMER, Autocad, Solidworks, Latex, InDesign, PhotoShop, Illustrator, C and C++, Java<br/>
   
 Electromagnetic/Optoelectronic Theory and Devices:
   * Fourier optics, diffractive optics, geometric optics, integrated photonics, passive components (waveguide, fiber, grating,
