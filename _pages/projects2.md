@@ -9,17 +9,13 @@ author_profile: true
 
 **Current Project 1**: Fabrication and Testing of Rectangular Fiber Grating Coupler and GARC Coupler
 
-Circular grating for the GARC coupler
-<center><img src="/images/i2.jpg" alt="Circular Grating" style="width:600px;height:440px;"></center>
+Circular grating for the GARC coupler and partially etched rectangular grating coupler
 
-Partial etched rectangular grating
-<center><img src="/images/j8.jpg" alt="Rectangular Grating" style="width:600px;height:440px;"></center>
+![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/i2.jpg)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/j8.jpg) |
 
-Fully etched focusing grating with nonuniform grating grooves (optimized by genetic algorithm)
-<center><img src="/images/focusing4.jpg" alt="focusing Grating" style="width:600px;height:440px;"></center>
+Fully etched focusing grating with nonuniform grating grooves (optimized by genetic algorithm) and uniform grating grooves
 
-Fully etched focusing grating with uniform grating grooves
-<center><img src="/images/focusing6.jpg" alt="focusing Grating" style="width:600px;height:440px;"></center>
+![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/focusing4.jpg)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/focusing6.jpg) |
 
 Optical setup for the fiber-grating coupling measurement
 <center><img src="/images/probe_stage2.jpg" alt="Probe Stage" style="width:600px;height:440px;"></center>
