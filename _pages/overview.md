@@ -11,11 +11,12 @@ My research interests are optics and photonics. Specifically, I am working on th
 
 The **Theory/Simulation** link summarizes my theoretical work and simulation results; the **Fabrication/Testing** link shows some of my experimental results.<br/>
 
-My top **technical strengths** include:<br/>
-* Rigorous coupled-wave analysis (RCWA)
-* Finite-difference time-domain simulations (FDTD)
-* Finite element method (FEM)
-* Beam propagation method (FD-BPM and FFT-BPM)
-* Electromagnetic and Optoelectronic theory
-* Nanofabrication and testing
-
+My **technical strengths** include:<br/>
+* Simulation: FDTD (Lumerical, MEEP), FEM (Comsol), RCWA, BPM, PDK, Zemax
+* Electromagnetic/optoelectronic theory: Fourier optics, diffractive optics, solid-state physics, imaging theory, holography, spatial light modulators (liquid crystals, MEMS devices)
+* Optimization: genetic algorithm, particle swarm, nonconvex optimization
+* Fabrication: CMOS fabrication/ Si photonics fabrication
+* System integration: flip-chip bonding, 6-deg rotation stage, fiber alignment, laser alignment
+* High-speed measurement: TDR, VNA, BERT, OTDR (for optical fiber)
+* Programming: Python, Matlab, C
+* Cad tools: autocad, solidworks
