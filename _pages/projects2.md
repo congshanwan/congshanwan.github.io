@@ -45,7 +45,7 @@ Cross-sectional views of the self-alignment structure (version 3)
 ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/new_assemb1.png)  |  ![Alt Text](https://github.com/congshanwan/congshanwan.github.io/raw/master/images/new_assemb3.png) |
 
 Assembled self-alignment structure (version 3)
-<center><img src="/images/setup_fiber.jpg" alt="assembly" style="width:600px;height:440px;"></center>
+<center><img src="/images/setup_fiber2.jpg" alt="assembly" style="width:600px;height:440px;"></center>
 
 **Previous Project**: Fabrication and Testing of Carbon Nanotube Transistor
 <center><img src="/images/CNT.png" alt="CNT Transistor" style="width:600px;height:440px;"></center>
