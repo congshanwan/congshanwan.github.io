@@ -15,6 +15,12 @@ author_profile: true
 
 
 
+**Horizon**: water color, April 14, 2019
+
+<center><img src="/images/d_horizon_by_CongshanWan_041419.jpg" alt="gloomy" style="width:300px;height:400px;"></center>
+
+
+
 **Gloomy**: color pencil, April 6, 2019
 
 <center><img src="/images/d_cat_by_CongshanWan_040619.jpg" alt="gloomy" style="width:300px;height:400px;"></center>
