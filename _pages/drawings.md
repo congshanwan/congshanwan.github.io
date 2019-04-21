@@ -7,6 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
+
+
+**Self Portrait**: color pencil and water color, April 20, 2019
+
+<center><img src="/images/d_self_by_CongshanWan_042019.jpg" alt="self" style="width:300px;height:400px;"></center>
+
+
+
 **Gloomy**: color pencil, April 6, 2019
 
 <center><img src="/images/d_cat_by_CongshanWan_040619.jpg" alt="gloomy" style="width:300px;height:400px;"></center>
