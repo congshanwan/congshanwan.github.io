@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Welcome to my website. I am a Ph.D. candidate in the school of ECE at Georgia Tech. My research interests are optics and photonics for the next-generation data centers and computer chips. I am coadivsed by Dr. Thomas K. Gaylord and Dr. Muhannad S. Bakir, and my expected graduation time is May 2019. Light is so mysterious and interesting that I am fascinated by it everyday!<br/>
+Hello! Welcome to my website. I am currently an Optical Engineer at Microsoft. I graduated from Georgia Tech with a Ph.D. degree in Electrical and Computer Engineering. My research interests were optics and photonics for the next-generation data centers and computer chips. I was coadivsed by Dr. Thomas K. Gaylord and Dr. Muhannad S. Bakir. Light is so mysterious and interesting that I am fascinated by it everyday!<br/>
 I earned my M.S. and B.S. in MSE from Georgia Tech and UIUC, respectively. I have learnt the basic physics and chemistry of the building blocks of everything around us, which lays the foundation for my current and future academic pursues. <br/>
 I like painting, reading, and hiking in my part time, and I am an active seeker for anything new!
 
