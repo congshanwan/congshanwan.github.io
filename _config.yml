@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Congshan Wan / Ph.D. Candidate"
+title                    : "Congshan Wan / Optical Engineer"
 title_separator          : "-"
 name                     : &name "Congshan Wan"
-description              : &description "Expected to graduate in 2019 May"
+description              : &description "Ph.D. degree in Electrical and Computer Engineering"
 url                      : https://congshanwan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "congshanwan/congshanwan.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Congshan Wan"
   avatar           : "cs.jpg"
-  bio              : "Ph.D. candidate in Optics and Photonics"
-  location         : "Georgia Institute of Technology"
-  employer         :
+  bio              : "Optical Engineer"
+  location         : ""
+  employer         : "Microsoft"
   googlescholar    : "https://scholar.google.com/citations?user=Iv-t7GMAAAAJ&hl=en"
-  email            : "cwan3@gatech.edu"
+  email            : "congshanw@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
