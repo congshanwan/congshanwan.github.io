@@ -9,12 +9,6 @@ author_profile: true
 
 
 
-**Self Portrait**: color pencil and water color, April 20, 2019
-
-<center><img src="/images/d_self_by_CongshanWan_042019.jpg" alt="self" style="width:300px;height:400px;"></center>
-
-
-
 **Horizon**: water color, April 14, 2019
 
 <center><img src="/images/d_horizon_by_CongshanWan_041419.jpg" alt="gloomy" style="width:300px;height:400px;"></center>
